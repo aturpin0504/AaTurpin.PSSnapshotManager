@@ -32,7 +32,7 @@ Install-Module -Name AaTurpin.PSSnapshotManager -Repository NuGet -Scope AllUser
 
 This module requires the following dependencies (automatically installed):
 - **AaTurpin.PSLogger** (v1.0.2+) - Thread-safe logging capabilities
-- **AaTurpin.PSConfig** (v1.1.0+) - Configuration management with pre-compiled exclusion patterns
+- **AaTurpin.PSConfig** (v1.2.0+) - Configuration management with pre-compiled exclusion patterns
 - **BitsTransfer** (v1.0.0.0+) - Background Intelligent Transfer Service support
 - **PowerShell 5.1** or later
 
