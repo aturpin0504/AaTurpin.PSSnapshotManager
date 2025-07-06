@@ -59,10 +59,6 @@ RequiredModules = @(
     @{
         ModuleName = 'AaTurpin.PSConfig'
         ModuleVersion = '1.2.0'
-    },
-    @{
-        ModuleName = 'BitsTransfer'
-        ModuleVersion = '1.0.0.0'
     }
 )
 
